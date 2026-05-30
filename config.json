@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervrocess",
+        "uuid": 4272088,
+        "checksum": "5kwnv4s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
